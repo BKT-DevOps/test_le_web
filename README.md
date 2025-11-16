@@ -1,4 +1,4 @@
-# test_le_web (Örnek)
+# Test Projects of Lutfiye (Örnek)
 
 <div align="center">
 
@@ -61,7 +61,7 @@ test_le_web/
 
 ## 🤝 Katkıda Bulunma
 
-Katkıda bulunmak için lütfen [`CONTRIBUTING.md`](CONTRIBUTING.md) dosyasını inceleyin.
+Katkıda bulunmak için lütfen [`CONTRIBUTING.md`](.github/CONTRIBUTING.md) dosyasını inceleyin.
 
 ## 📚 Dokümantasyon
 
@@ -129,7 +129,7 @@ test_le_web/
 
 ## 🤝 Contributing
 
-Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution guidelines.
+Please see [`CONTRIBUTING.md`](.github/CONTRIBUTING.md) for contribution guidelines.
 
 ## 📚 Documentation
 
